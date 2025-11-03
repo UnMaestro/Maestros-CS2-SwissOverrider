@@ -30,10 +30,13 @@ Hello and Hallo. This is a Vanilla Theme Overrider that turns Vanilla Signs and 
 
 ##  Enjoy &amp; Share Your Feedback!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
-  <ForumLink Value="" />
-  <ModVersion Value="1.0.0" />
+  <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/swiss-vanilla-sign-overrider-we-module.1865795" />
+  <ModVersion Value="1.0.1" />
   <GameVersion Value="1.*" />
-  <ChangeLog>First Release</ChangeLog>
+  <ChangeLog>Added thumbnail, screenshot and forumlink
+Change the Speedlimit 30 Sign with the Zone 30 one</ChangeLog>
   <Tag Value="Code Mod" />
+  <Screenshot Value="Screenshots\Screenshot_1.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
+  <ExternalLink Type="github" Url="https://github.com/UnMaestro/Maestros-CS2-SwissOverrider" />
 </Publish>
