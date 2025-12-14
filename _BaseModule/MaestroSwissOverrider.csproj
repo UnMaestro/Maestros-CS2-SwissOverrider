@@ -17,7 +17,7 @@
     <LangVersion>12</LangVersion>
     <IsBelzontCommonsMod>false</IsBelzontCommonsMod>
     <ModId>123563</ModId>
-    <Version>1.1.1</Version>
+    <Version>1.2.0</Version>
     <GameVersion>1.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
     <DisplayName>Swiss Vanilla Sign Overrider (WE-Module)</DisplayName>
@@ -25,10 +25,8 @@
     <ForumLink>https://forum.paradoxplaza.com/forum/threads/swiss-vanilla-sign-overrider-we-module.1865795</ForumLink>
     <GitHubLink>https://github.com/UnMaestro/Maestros-CS2-SwissOverrider</GitHubLink>
     <YoutubeLink></YoutubeLink>
-    <KofiLink></KofiLink>
-    <BMACLink></BMACLink>
-    <CrowdinLink></CrowdinLink>
-    <TwitterLink></TwitterLink>
+    <DiscordLink>https://discord.com/channels/1024242828114673724/1446097301775843488</DiscordLink>
+    <PayPalLink>https://www.paypal.com/paypalme/pas1800</PayPalLink>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 

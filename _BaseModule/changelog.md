@@ -1,5 +1,7 @@
-## Ver 1.1.1 Update
+## Ver 1.2.0 Update
 
+### Added
+- Added 3D Model Signs
 
-### Fixes
-- Compatibility for game update 1.5.2f1
+### Changes
+- Made the Bicycle Decals Yellow

@@ -1,7 +1,12 @@
 # Swiss Vanilla Theme Overrider 
-## SERIE B PACK
 
-Hello and Hallo. This is a Vanilla Theme Overrider that turns Vanilla Signs and Roadmarkings to Swiss ones.
+Hello and Hallo. This is a Vanilla Theme Overrider that turns Vanilla Signs, Roadmarkings and Decals to Swiss ones.
+
+### Functions
+- Works **automaticly**, you don't need any knowledge whatsoever!
+- Variable working Street Signs
+- Custom Bicycle Parking Decals
+- Custom 3D Model Signs
 
 ---
 
@@ -10,21 +15,9 @@ Hello and Hallo. This is a Vanilla Theme Overrider that turns Vanilla Signs and 
 
 ---
 
-##  Check out my other Signs/Overrider Modules
-### Serie A
-- [German Signs](https://mods.paradoxplaza.com/mods/120627/Windows)
-- [German Overrider](https://mods.paradoxplaza.com/mods/123745/Windows)
-- [Dutch Signs](https://mods.paradoxplaza.com/mods/121223/Windows)
-- [Dutch Overrider](https://mods.paradoxplaza.com/mods/125249/Windows)
-- [Italian Signs](https://mods.paradoxplaza.com/mods/121615/Windows)
-- [Italian Overrider](https://mods.paradoxplaza.com/mods/124269/Windows)
-
-### Serie B
+##  Check out the corrosponding Sign Pack or the other Country Packs/Overrider
 - [Swiss Signs](https://mods.paradoxplaza.com/mods/124288/Windows)
-- [French Signs](https://mods.paradoxplaza.com/mods/124289/Windows)
-- [French Overrider](https://mods.paradoxplaza.com/mods/123893/Windows)
-- [Spanish Signs](https://mods.paradoxplaza.com/mods/124290/Windows)
-- [Spanish Overrider]()
+- [Other Countries](https://mods.paradoxplaza.com/authors/UnMaestro)
 
 ---
 
