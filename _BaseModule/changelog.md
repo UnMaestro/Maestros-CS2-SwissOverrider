@@ -1,7 +1,4 @@
-## Ver 1.2.0 Update
-
-### Added
-- Added 3D Model Signs
+## Ver 1.2.1 Update
 
 ### Changes
-- Made the Bicycle Decals Yellow
+- Made the Pedestrian Decals also Yellow
